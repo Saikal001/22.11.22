@@ -2,3 +2,18 @@
 
 box-sizing: border-box;
 }
+header{
+  margin-top: 20px;
+  background-color: aqua;
+  color: black;
+}
+aside{
+  margin-top: 20px;
+  background-color: greenyellow;
+  color: black;
+}
+article{
+  margin-top: 20px;
+  background-color: rgb(255, 136, 0);
+  color: black;
+}
