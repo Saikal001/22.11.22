@@ -3,17 +3,26 @@
 box-sizing: border-box;
 }
 header{
-  margin-top: 20px;
+  
   background-color: aqua;
-  color: black;
+  
 }
 aside{
-  margin-top: 20px;
+  
   background-color: greenyellow;
-  color: black;
+  flex-wrap: 0 0 250px;
 }
 article{
-  margin-top: 20px;
+  
   background-color: rgb(255, 136, 0);
-  color: black;
+  
+  flex-wrap: 1 1 0px;
+
+
+}
+
+main{
+  display: flex;
+  flex-wrap: wrap;
+
 }
